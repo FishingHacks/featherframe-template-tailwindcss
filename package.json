@@ -4,6 +4,6 @@
     "authors": "FishingHacks",
     "version": "1.0.0",
     "scripts": {
-        "install": "cd public/packages && git clone https://github.com/FishingHacks/lfhooks"
+        "install": "cd public/packages && git clone https://github.com/FishingHacks/ffhooks"
     }
 }
