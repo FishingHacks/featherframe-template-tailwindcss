@@ -1,0 +1,1 @@
+module.exports = (req, res) => res.json({error: false, code: 200, msg: ""});
