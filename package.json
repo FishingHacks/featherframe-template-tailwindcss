@@ -1,9 +1,19 @@
 {
-    "name": "lightframe-example-tailwindcss",
-    "description": "description",
-    "authors": "FishingHacks",
-    "version": "1.0.0",
-    "scripts": {
-        "install": "cd public/packages && git clone https://github.com/FishingHacks/ffhooks"
-    }
+  "name": "feahterframe-template-tailwindcss",
+  "version": "1.0.0",
+  "description": "An Boilerplate for featherframe using ffhooks and tailwindcss",
+  "dependencies": {
+    "ffhooks": "^1.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FishingHacks/lightframe-template-tailwindcss.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FishingHacks/lightframe-template-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/FishingHacks/lightframe-template-tailwindcss#readme"
 }
